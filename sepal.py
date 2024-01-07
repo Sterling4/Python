@@ -5,6 +5,7 @@ iris = load_iris()
 
 iris
 
+Iris_set = iris
 iris.columns
 
 Iris_set = pd.read_csv("iris.csv", index_col="number")
